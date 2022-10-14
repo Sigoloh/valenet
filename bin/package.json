@@ -1,0 +1,9 @@
+{
+  "name": "valenet",
+  "version": "1.0.5",
+  "bin": {
+    "create": "index.js"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
